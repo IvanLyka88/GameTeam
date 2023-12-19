@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IvanLyka88/WorkSpace.git"
+    "url": "git+https://github.com/IvanLyka88/GameTeam.git"
   },
   "keywords": [
     "game"
@@ -16,7 +16,7 @@
   "author": "Look_A_Show",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IvanLyka88/WorkSpace/issues"
+    "url": "https://github.com/IvanLyka88/GameTeam/issues"
   },
-  "homepage": "https://github.com/IvanLyka88/WorkSpace#readme"
+  "homepage": "https://github.com/IvanLyka88/GameTeam#readme"
 }
